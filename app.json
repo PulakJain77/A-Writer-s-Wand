@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "apptemplate",
+    "slug": "snack-29c3a7ac-1890-484c-b2a5-94c37d11e298",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "In class 59, you learned about various lifecycles and states of components and developed a counter app.\n\nIn today's project, you will complete the newsletter app by keeping a track of ratings of both likes and dislikes.\n"
+  }
+}
